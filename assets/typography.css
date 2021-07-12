@@ -1,0 +1,52 @@
+body{
+    overflow-x:hidden;
+    background-color:#111111;   
+    font-family:sans-serif;
+}
+
+
+#start_data,#end_data{
+    text-align: left;
+    padding: 10px;
+    color:white;
+}
+
+h1#Main_title{
+    color:white;
+}
+
+.tab-content{
+    background-color:white;
+}
+
+.tab--selected{
+    font-weight:600;
+}
+
+.dash-table-container .dash-spreadsheet-container .dash-spreadsheet-inner.dash-fill-width .cell table{
+    width:96% !important;
+    margin-left:3% !important;
+}
+
+.cell.cell-1-1.dash-fixed-content {
+    margin-left: -2% !important;
+}
+
+button:disabled {
+color:black !important;
+background-color:#111111;
+}
+
+
+.bg-warning{
+    background-color:#803326 !important;
+}
+
+.bg-secondary{
+    background-color:#636EFA !important;
+}
+
+text.slicetext {
+    font-weight: 300;
+    fill: white !important;
+}
